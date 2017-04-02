@@ -1,0 +1,13 @@
+how to install Owncloud 9.1 on Ubuntu 16.01 in AWS
+
+Procedures:
+1. http://comtechies.com/how-to-set-up-owncloud-storage-server-on-amazon-ec2.html
+Finish step 7 
+
+2. Sercurity group > add rule > http 80 port
+
+3. Install owncloud
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-owncloud-on-ubuntu-16-04#step-3-–-owncloud-configuration
+
+
+Reference: https://owncloud.org/features/
